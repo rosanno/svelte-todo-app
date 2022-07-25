@@ -1,0 +1,40 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Begin promotional phase",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Read article",
+      "completed": false
+    },
+    {
+      "title": "Try not to fall asleep",
+      "userId": 1,
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Watch 'Dragon Ball Super: Super Heroes",
+      "userId": 1,
+      "completed": true,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "title": "Go for a walk",
+      "completed": false
+    },
+    {
+      "id": "5f8e2575-f964-4298-9729-19c71b0916a4",
+      "userId": 2,
+      "title": "Walk with dog 🐕‍🦺",
+      "completed": false
+    }
+  ]
+}
