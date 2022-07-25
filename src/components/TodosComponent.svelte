@@ -46,6 +46,7 @@
 						w-full
 						relative
                         items-center space-x-4 cursor-pointer
+						${todo.id}
                     `}
 				>
 					<div on:click={handleCompleteTodos(todo)} class="text-gray-600 hover:text-green-600">
